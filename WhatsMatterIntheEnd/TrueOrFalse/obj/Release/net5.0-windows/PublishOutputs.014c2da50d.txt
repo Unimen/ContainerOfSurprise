@@ -1,0 +1,5 @@
+C:\Users\passm\OneDrive\Pulpit\VS project\TrueOrFalse.exe
+C:\Users\passm\OneDrive\Pulpit\VS project\TrueOrFalse.dll
+C:\Users\passm\OneDrive\Pulpit\VS project\TrueOrFalse.deps.json
+C:\Users\passm\OneDrive\Pulpit\VS project\TrueOrFalse.runtimeconfig.json
+C:\Users\passm\OneDrive\Pulpit\VS project\TrueOrFalse.pdb
